@@ -4,17 +4,7 @@ const data = require('./data.json');
 // https://json-csv.com/
 
 const cookies = [
-  {
-    name: 'meerkat',
-    value: '.eJwlj0tqQzEMAO_idRayJMtWLhP0My2FFt5LVqV3z4MeYJiZ3_bYR50f7f48XnVrj89s96aA7uAjuiXK3Klr7ChjUkYwUVrKiToIgYGNBkevbpBjD1owq9SpEAS9WGZRGsNMtFWMMZFSQDeP5VMIYNKlgG5szHtltFuL89iP589XfV89HczFIYgjI6UbgS4P3GU4wib2lKLaF_c66_ifGG5arkESvgeIOdEy8_b3Bis8RdE.EM7-Cg.QbO6Yixh_1XufiVmQBi_cCrSaDM',
-    domain: 'meerkat.peat-cloud.com',
-    path: '/',
-    expires: -1,
-    size: 282,
-    httpOnly: true,
-    secure: false,
-    session: true
-  }
+ //<requires a valid session cookie>//
 ];
 
 async function autoScroll(page){
