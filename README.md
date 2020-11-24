@@ -1,8 +1,19 @@
 ## Master thesis 
-## "Mapping cropped area in the rabi season of Andhra Pradesh between 2017 and 2019 using training data collected through the agtech platform Plantix"
+## Mapping cropped area in the rabi season of Andhra Pradesh between 2017 and 2019 using training data collected through the agtech platform Plantix
 ### Institute of Geography, HU Berlin, Winter Term 2019 - Summer Term 2020
 
-This repository includes Python and GoogleEarth Engine scripts that I wrote in order to conduct my master thesis. Python was used for pre-processing steps as well as filtering (Pandas); tuning the parameters for my Random Forest classification and plotting of the raw/filtered data & results. 
+
+
+This repository includes Python and GoogleEarth Engine scripts that I wrote in order to conduct my master thesis. 
+
+Python was used for pre-processing steps as well as filtering (Pandas); tuning the parameters for my Random Forest classification and plotting of the raw/filtered data & results. 
+The Google Earth Engine (Javscript) scripts was used in order to process remotely sensed image data, generate training data out of existing global datasets and train Random Forest Classification models.
+
+<img src="plots/flowchart_general.png" alt="flowchart" width="500"/>
+
+<img src="plots/plot_AP_2017_2019_2020.png" alt="submission plots" width="500"/>
+<img src="plots/stable_rice_stable_cropped_compare.png" alt="result map" width="500"/>
+
 
 ## Python Scripts: 
 #### 1) Mongo DB Queries 
