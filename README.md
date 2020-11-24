@@ -10,6 +10,7 @@ Python was used for pre-processing steps as well as filtering (Pandas); tuning t
 The Google Earth Engine (Javscript) was used in order to process remotely sensed image data, generate training data out of existing global datasets and train Random Forest Classification models.
 
 *Flowchart:*
+
 <img src="plots/flowchart_general.png" alt="flowchart" width="700"/>
 
 *Crop photo submissions through the Android app "Plantix" from farmers located in Andhra Pradesh, India:*
