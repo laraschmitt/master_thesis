@@ -1,6 +1,5 @@
-## Master thesis 
-## Mapping cropped area in the rabi season of Andhra Pradesh between 2017 and 2019 using training data collected through the agtech platform Plantix
-### Institute of Geography, HU Berlin, Winter Term 2019 - Summer Term 2020
+### Master thesis: Mapping cropped area in the rabi season of Andhra Pradesh between 2017 and 2019 using training data collected through the agtech platform Plantix
+#### Institute of Geography, HU Berlin, Winter Term 2019 - Summer Term 2020
 
 
 
