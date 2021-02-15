@@ -41,7 +41,7 @@ The Google Earth Engine (Javscript) was used in order to process remotely sensed
 
 ## GEE Scripts:
 #### 1) Modules 
-   * Modules for calculating a c
+   * Helper-modules
 #### 2) Calculation of spectral-temporal metrics
   * Computation of cloud-free image composite
   * maximum NDVI stack
