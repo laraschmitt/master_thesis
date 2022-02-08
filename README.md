@@ -6,7 +6,7 @@
 This repository includes Python and GoogleEarth Engine scripts that I wrote in order to conduct my master thesis. 
 
 Python was used for pre-processing steps as well as filtering (Pandas); tuning the parameters for my Random Forest classification and plotting of the raw/filtered data & results. 
-The Google Earth Engine (Javscript) was used in order to process remotely sensed image data, generate training data out of existing global datasets and train Random Forest Classification models.
+The Google Earth Engine (Javascript) was used in order to process remotely sensed image data, generate training data out of existing global datasets and train Random Forest Classification models.
 
 *Flowchart:*
 
